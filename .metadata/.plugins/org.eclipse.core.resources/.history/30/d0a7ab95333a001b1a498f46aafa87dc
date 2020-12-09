@@ -1,0 +1,18 @@
+package fundamentos;
+
+public class Temperatura {
+	
+	public static void main(String[] args) {
+		//(Fº - 32) 5/9 = °C ***Fórmula para converter F° em C°
+		
+		final int fator = 32;
+		final double divisor = 5/9;
+		
+		int farenheit;
+		double celsius;
+		
+		
+		
+	}
+
+}
