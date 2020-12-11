@@ -1,0 +1,10 @@
+package fundamentos;
+
+import javax.swing.JOptionPane;
+
+public class ConversaoStringNumero {
+	public static void main(String[] args) {
+		String valor1 = JOptionPa2ne.showInputDialog("Digite o primeiro número");
+		System.out.println(valor1);
+	}
+}
